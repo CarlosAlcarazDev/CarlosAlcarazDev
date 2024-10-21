@@ -2,4 +2,5 @@
 
 ## Estudiante Grado Ingeniería Informática
 
-Soy estudiante del Grado de Ingeniería Informática impartido en la UOC.
+Futuro graduado en Ingeniería Informática - Tecnologías de la Información
+Future graduate Computer Engineering- Information Technology
